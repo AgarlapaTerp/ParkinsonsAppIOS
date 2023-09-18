@@ -28,6 +28,12 @@ If the result indicates that you may have Parkinson's disease, please consult a 
 
 **Usage**
 
-Clone the repository
-Open the repo on XCode
-Just Run the App
+1. Clone the repository
+2. Open the repo on XCode
+3. Just Run the App
+
+<a href="https://devpost.com/software/spiralscope-parkinson-s-spiral-disease-detection-app" target="_blank">Devpost</a>
+
+
+https://github.com/AgarlapaTerp/ParkinsonsAppIOS/assets/97764660/b2ba2586-6292-42e1-8f78-9952b5ff86da
+
